@@ -116,6 +116,6 @@ class Pasajero:
         )
 
 
-if __name__ == "__main__":
+if __RONALDTORRES__ == "__main__":
     p1 = Pasajero("12345678", "juan perez lopez", 65, 18, "Iquitos-Nauta")
     print(p1)
